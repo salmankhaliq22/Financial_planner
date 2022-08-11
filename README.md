@@ -4,7 +4,6 @@ Challenge / Project from Fintech Bootcamp for APIs Week (Week 5)
 ## Jupyter Notebooks:
 
 * [financial-planner.ipynb](financial-planner.ipynb)
-* [financial-planner-withDebuggingComments.ipynb](financial-planner-withDebuggingComments.ipynb)
 
 ## Some Plots (Images) from Part 2 - Retirement Planning
 
